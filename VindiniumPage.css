@@ -1,0 +1,15 @@
+/*
+    Document   : VindiniumPage.css
+    Created on : 2015-04-29 08:58 PM
+    Author     : BilboBaggins
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}

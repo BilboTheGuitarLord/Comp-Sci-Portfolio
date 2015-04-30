@@ -1,0 +1,65 @@
+html{
+    background:red
+}
+p:first-letter {
+	display:block;
+	float:left;
+	font-family:Georgia;
+	font-size: 310%;
+	font-weight: bold;
+	line-height: 90%;
+	margin-right: 6px;
+	margin-bottom:-2px;
+	margin-top: 7px;
+}
+h{
+    background-color:red
+}
+h{
+    color:black
+}
+h{
+    font-size:60px
+}
+h1{
+    color:white
+}
+h1{
+  background-color:black
+}
+h2{
+    color:white
+}
+h2{
+  background-color:black
+}
+h3{
+    color:white
+}
+h3{
+  background-color:black
+}
+h4{
+    color:white
+}
+h4{
+  background-color:black
+}
+h5{
+    color:white
+}
+h5{
+  background-color:black
+}
+h6{
+  background-color:black
+}
+h6{
+  color:white
+}
+h7{
+  background-color:orange
+}
+h7{
+  color:blue
+}

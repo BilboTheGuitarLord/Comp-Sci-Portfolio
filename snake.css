@@ -1,0 +1,23 @@
+z-index:     ;table {
+    background-image: url(http://forums.crackberry.com/attachments/bb10-leaked-beta-os-f395/206699d1380597732t-how-get-black-background-170911d1370992808t-got-blackberry-make-blacker-black.png)
+}
+td {
+    border:0px solid white;
+    width:100px;
+    height:25px;
+}
+body {
+    border-style: ridge;
+    border-width: 20px;
+    border-color: #00FFFF;
+}
+table {
+  border-style: ridge;
+  border-witdth: 20 px;
+  border-color: #F0FFFF;
+  
+}
+.hasFood{
+    background-color: aqua
+    
+}

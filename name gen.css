@@ -1,0 +1,26 @@
+body {
+  font-family: arial, serif;
+  background-image: url("http://i.imgur.com/2ii75IS.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: 1366px 768px ;
+}
+#generator {
+  margin-top: 80px;
+  font-size:150px;
+  font-weight:thin;
+  text-align:center;
+  color: white;
+}
+#button {
+  background-color: #FF9B12;
+  border: 2px solid #FF9B12;
+  color: white;
+  font-size:24px;
+  font-weight:bold;
+  margin-top: 40px
+  border-radius: 2px;
+  padding-left: 25px;
+  padding-right: 25px;
+}

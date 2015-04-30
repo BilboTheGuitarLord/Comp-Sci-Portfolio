@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="calc.css">
+    <link rel="stylesheet" type="text/css" href="navbar.css">
+	<title>Calculator</title>
+</head>
+<body>
+    <ul id="navbar">
+    <li><a href="index.html">Intro Page</a>
+    </li>
+    <li><a href="about me.html">About me</a>
+    </li>
+    <li><a href="full website.html">My website</a>
+    </li>
+    <li><a href="name gen.html">Name Generator</a>
+    </li>
+    <li><a href="calc.html">Calculator</a>
+    </li>
+    <li><a href="computer hardware.html">About Computer Hardware</a>
+    </li>
+    <li><a href="snake.html">Snake </a>
+    </li>
+    <li><a href="VindiniumPage.html">About Vindinium</a>
+    </li>
+</ul>
+    
+    <link rel="stylesheet" type="text/css" href="calc.css">
+  <div id = "calculator">
+  <input type ="text" name="Number1" id="Number1">
+      <select id="DropdownMenu1">
+    <option value="+" id="Add">Add</option>
+    <option value="-" id="Subtract">Subtract</option>
+    <option value="x" id="Multiply">Multiply</option>
+    <option value="Ã·" id="Divide">Divide</option>
+    <option value="^" id="Exponent">Exponent</option>
+    <option value="&" id="Square-Root">Square Root</option>
+    </select>
+      <input type ="text" name="Number2" id="Number2">
+      
+      <input type="button" value="Enter" id="submitButton" />
+      <input id="btnClear" type="button" value="Clear" onclick="Clear()"/>
+      <div>
+        <br>
+      </div>
+      <span id="Answer"></span>
+  </div>
+  <a href="index.html"><button>Back to Main Page</button></a>
+  <script src='calc.js' ></script>  
+</body>
+</html>

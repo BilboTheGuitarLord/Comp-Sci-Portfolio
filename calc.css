@@ -1,0 +1,112 @@
+body {
+    color: white;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 24px;
+    background-image: url("http://imgs.mi9.com/uploads/landscape/4829/hd-landscape-wallpaper_1920x1080_88628.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#calculator {
+    text-align: center;
+    margin-top: 280px;
+}
+#submitButton {
+    width: 90px;
+    height: 30px;
+    border-radius:2px;
+    background-color: #33ff33;
+    font-size: 16px;
+    color: white;
+    font-weight:bold;
+    border: 0px solid white;
+}
+#submitButton:active {
+    border: 4px solid #33ff33;
+}
+#btnClear {
+    width: 90px;
+    height:30px;
+    border-radius:2px;
+    background-color: #ff3333;
+    font-size: 16px;
+    color: white;
+    font-weight:bold;
+    border: 0px solid white;
+}
+#btnClear:active {
+    border: 4px solid #ff3333;
+}
+#Number1 {
+    background-color: white;
+    width: 120px;
+    height: 24px;
+    border:1.8px solid black;
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#Number2 {
+    background-color: white;
+    width: 120px;
+    height: 24px;
+    border:1.8px solid black;
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#DropdownMenu1 {
+    background-color: white;
+    width: 120px;
+    height: 28px;
+    border:1.8px solid black;
+    color: black;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+#name {
+    font-size: 30px;
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+#Answer {
+    color: black;
+    background-color: white;
+    border: 1px solid #0066CC;
+    border-radius: 2px;
+    margin-top: 120px;
+    width: 575px;
+}
+#Add {
+    background-color:#B2D1F0;
+    height: 20px;
+    font-size:14px;
+}
+#Subtract {
+    background-color:#80B2E6;
+    height: 20px;
+    font-size:14px;
+}
+#Multiply {
+    background-color:#4D94DB;
+    height: 20px;
+    font-size:14px;
+}
+#Divide {
+    background-color:#1975D1;
+    height: 20px;
+    font-size:14px;
+}
+#Exponent {
+    background-color:#005CB8;
+    height: 20px;
+    font-size:14px;
+}
+#Square-Root {
+    background-color:#00478F;
+    height: 20px;
+    font-size:14px;
+}
